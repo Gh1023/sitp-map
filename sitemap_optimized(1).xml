@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" 
 xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
 xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
@@ -5,55 +6,19 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/features/steam_controller/iga_file?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/api/isteaminput?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/devkits?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/features/steamvr/info?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IBroadcastService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/uploading?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamScreenshots?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/features/inventory/tools?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/sdk/updating/rename_exe?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/multiplayer/matchmaking/skill?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamNews?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/marketing/curators?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/store/release_dates?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamWebAPIUtil?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/isitelicenseservice?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/application/dlc/browse?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamInventory?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/features/steam_audio?l=schinese</loc>
@@ -62,46 +27,13 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/store/pricing/new_currency?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/steamvr/settings?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/promo/organizers?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/features/steamvr/enterprise?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/virtualconference?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IGameNotificationsService?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/marketing/widget?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamMatchmakingServers?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/licensees/faq?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/licensees/signup?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IWorkshopService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ILobbyMatchmakingService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamTimeline?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/enhancedrichpresence?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamHTTP?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/store/tags?l=schinese</loc>
@@ -113,16 +45,7 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/store/page/accolades?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamMusic#AudioPlayback_Status?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/api/example?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/couch_coop_rpt_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/installscripts?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing/community_moderation/adding_moderators?l=schinese</loc>
@@ -134,12 +57,6 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/marketing/tradingcards?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/timeline?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/mobile?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/assets/standard?l=schinese</loc>
   </url>
   <url>
@@ -149,34 +66,13 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/store/page/description?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/microtransactions?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/assets/community?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/keys?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamEconomy?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/playtest?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamMicroTxnSandbox?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamClient?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/sokoban_2025?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/fishing_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/api?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/features/achievements/ach_guide?l=schinese</loc>
@@ -191,19 +87,10 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/features/steam_controller/getting_started_for_players?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/html_surface?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/marketing/event_tools/sale_pages_minimum?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/concepts?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/pricing?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/microtransactions/implementation?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/store/localization?l=schinese</loc>
@@ -212,226 +99,16 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/marketing/wishlist/reporting?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/finance/payments_salesreporting?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/marketing/traffic_reporting?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IGameInventory?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi_overview/responses?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamNetworkingMessages?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/getting_started_for_devs?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi_overview/auth?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamRemoteStorage?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/input_source_modes?l=schinese</loc>
+    <loc>https://partner.steamgames.com/doc/store/page?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/sports_2025?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/store/application/packages/deluxe?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/steam_api#uint32?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamFriends?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/templates?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/compat?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamUser?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/publisher?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/pricing/subscriptions?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/device/steam_controller?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/broadcast/moderation?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/finance/taxfaq?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamRemoteStorage?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/multiplayer/matchmaking?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/uploading/distributing_source_engine?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/screenshots?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/types?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/appfee?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/finance/refunds?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/followers?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/drm?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/event_examples?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/iga_examples?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/coming_soon?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/music_player?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/remoteplay?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/branding?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/multiplayer/networking?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/device?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/achievements/stats_guide?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamGameServer?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/steam_gameserver?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/community_moderation?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/onboarding?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/mouse_regions?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/icloudservice?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/updating?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/leaderboards?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/managing_apps?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/action_manifest_file?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamVideo?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/assets/eventassets?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/moderation?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IEconService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamMusic?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/manageeditions?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/franchise_pages?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/goldmaster?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory/accessories?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/error_reporting?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/activators?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/packages?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamGameServerStats?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/city_builder_and_colony_sim_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/broadcast?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/type_majorupdate?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/finance/payments_salesreporting/faq?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/workshop?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/anticheat?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/pricing/currencies?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ICheatReportingService?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/zombies_vs_vampires_2025?l=schinese</loc>
@@ -446,516 +123,21 @@ xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <loc>https://partner.steamgames.com/doc/store?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IGameServersService?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/creator_homepage/example?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamUser?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/platforms/linux?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing/bestpractices?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamNetworking?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/features/achievements?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamMusicRemote?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/quickstart?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted/licensemodelpc?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/uploading/distributing_opensource?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/debugging?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steamvr/openvr?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/SteamEncryptedAppTicket?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory/schema?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/tips?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/advertising?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/branches?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/china?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/visual_novel_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/2025february?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/managing_users/communication?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/dlc?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/racing_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/api/debugging?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/wishlist?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/recommendations?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/steam_input_gamepad_emulation_bestpractices?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/promo?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/loadgames?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/multiplayer/game_servers?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/managing_apps/sharing?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steamvr?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamPublishedItemSearch?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/discounts/freeweekends?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamNetworkingUtils?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/type_patchnotes?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamApps?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/stats?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/discounts/dailydeal?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/contentsurvey/germany?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/pricing/csv?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/uploading/local_content_server?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/steamnetworkingtypes?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IInventoryService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/steam_api?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/top_sellers?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/tools?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/prepurchase?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/managing_users?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/families?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/voice?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/import?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/home?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/packages/autogrants?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/page?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/seasonpass?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/microtransactions/recurring_billing?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/demos?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/legacy_mode?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/updates?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/touch_menus?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi_overview/oauth?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamRemotePlay?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/radial_menus?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/community?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamGameServerStats?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamNetworkingSockets?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/auth?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory/webfunctions?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IEconMarketService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/browse_configs?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/steam_api#SteamAPI_RunCallbacks?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamLeaderboards?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamCommunity?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/anticheat/vac_integration?l=schinese</loc>
   </url>
   <url>
     <loc>https://partner.steamgames.com/doc/marketing?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/workshop/implementation?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/assets/rules?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/common_redist?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/action_set_layers?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/proton?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi_overview?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/google_analytics?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/pointsshopitems?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/third_person_shooters_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamGameCoordinator?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/game_notifications?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/licensees?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory/itemstore?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamHTMLSurface?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamMatchmaking?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/contentsurvey?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/utm_analytics?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/reviews?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/visibility?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/faq?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/review_process?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/device/xb1_controller?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamMicroTxn?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/2025october?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/visibility?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/discounts/seasonalsales?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamPublishedItemVoting?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamApps?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted/licensemodelvr?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/overlay?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/device/x360_controller?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/sdk/uploading/distributing_gs?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/automation_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/creature_collector_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/retire_app?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamController?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IPlayerService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/finance?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/promo/thirdpartyevents?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/leaderboards/guide?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/wargames_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steamvr/input?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/bundles?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/localization/languages?l=schinese</loc>
   </url>
   <url>
-    <loc>https://partner.steamgames.com/doc/features/workshop/tags?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/discounts?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/broadcast/stats?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/multiplayer?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/steamdeck/brandguidelines?l=schinese</loc>
-  </url>
-  <url>
     <loc>https://partner.steamgames.com/doc/store/earlyaccess?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/assets/overrides?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/broadcast/demo?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/isteamparties?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/assets/libraryassets?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamUGC?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/releasing?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/broadcast/faq?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory/dynamicproperties?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/freetoplay?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/depots?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/faq?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/steam_halloween_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/trailer?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/creator_homepage?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/IPublishedFileService?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamUtils?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamUserStats?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/gettingstarted/managing_apps/transfer?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/profile?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/4X_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/webapi/ISteamUserAuth?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/event_tools/embed?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/political_sim_2025?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/device/ps4_controller?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/api/ISteamUserStats?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/soundtrackapp?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/cloud?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/steam_controller/input_source?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/broadcast/setting_up?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/inventory/itemtags?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/features/cloudgaming?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/marketing/visibility/update_rounds?l=schinese</loc>
-  </url>
-  <url>
-    <loc>https://partner.steamgames.com/doc/store/application/platforms?l=schinese</loc>
   </url>
 </urlset>
